@@ -1,3 +1,6 @@
+#include <vector>
+using namespace std;
+
 // @leet start
 class Solution {
   public:

@@ -1,0 +1,7 @@
+-std=c++17
+-Wall
+-Wno-sign-compare
+-Wno-unused-variable
+-Wno-unused-parameter
+-Wno-missing-field-initializers
+--target=x86_64-pc-windows-gnu
